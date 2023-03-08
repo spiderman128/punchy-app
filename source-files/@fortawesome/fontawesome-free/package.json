@@ -1,0 +1,62 @@
+{
+  "_from": "@fortawesome/fontawesome-free@^6.1.0",
+  "_id": "@fortawesome/fontawesome-free@6.2.1",
+  "_inBundle": false,
+  "_integrity": "sha512-viouXhegu/TjkvYQoiRZK3aax69dGXxgEjpvZW81wIJdxm5Fnvp3VVIP4VHKqX4SvFw6qpmkILkD4RJWAdrt7A==",
+  "_location": "/@fortawesome/fontawesome-free",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@fortawesome/fontawesome-free@^6.1.0",
+    "name": "@fortawesome/fontawesome-free",
+    "escapedName": "@fortawesome%2ffontawesome-free",
+    "scope": "@fortawesome",
+    "rawSpec": "^6.1.0",
+    "saveSpec": null,
+    "fetchSpec": "^6.1.0"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@fortawesome/fontawesome-free/-/fontawesome-free-6.2.1.tgz",
+  "_shasum": "344baf6ff9eaad7a73cff067d8c56bfc11ae5304",
+  "_spec": "@fortawesome/fontawesome-free@^6.1.0",
+  "_where": "C:\\Users\\Natalia\\Documents\\template-punchy\\frontendSale",
+  "author": {
+    "name": "The Font Awesome Team",
+    "url": "https://github.com/orgs/FortAwesome/people"
+  },
+  "bugs": {
+    "url": "https://github.com/FortAwesome/Font-Awesome/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "The iconic font, CSS, and SVG framework",
+  "engines": {
+    "node": ">=6"
+  },
+  "homepage": "https://fontawesome.com",
+  "keywords": [
+    "font",
+    "awesome",
+    "fontawesome",
+    "icon",
+    "svg",
+    "bootstrap"
+  ],
+  "license": "(CC-BY-4.0 AND OFL-1.1 AND MIT)",
+  "main": "js/fontawesome.js",
+  "name": "@fortawesome/fontawesome-free",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FortAwesome/Font-Awesome.git"
+  },
+  "scripts": {
+    "postinstall": "node attribution.js"
+  },
+  "style": "css/fontawesome.css",
+  "version": "6.2.1"
+}
